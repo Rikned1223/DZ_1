@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DZ_1_6</string>
+    <string name="Text">Введите что нибудь</string>
+    <string name="Button">Нажми</string>
+    <string name="TextView">Text</string>
+</resources>
